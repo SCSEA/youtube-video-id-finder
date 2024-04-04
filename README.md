@@ -28,3 +28,8 @@ cd youtube-video-id-finder
 pip install re
 
 python3 yfinder.py
+
+
+
+
+# D𝕚𝕤𝕔𝕝𝕒𝕚𝕞𝕖r: [!] legal disclaimer: This tool is for Educational Purpose Only. I am not responsible any damage caused by this program or code...
