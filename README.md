@@ -12,6 +12,9 @@ Linking to specific YouTube videos: Instead of sharing the entire URL, you can s
 
 The YouTube video ID finder typically uses regular expressions or string manipulation techniques to locate and extract the video ID from the URL. Once the video ID is extracted, it can be used for various purposes as described above.
 
+
+#Installation 
+
 apt upadate && apt upgrade -y
 
 pkg install git
