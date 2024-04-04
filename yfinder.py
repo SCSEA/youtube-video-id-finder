@@ -17,7 +17,7 @@ def extract_youtube_video_id(url):
         return None
 
 # Take the first YouTube URL as input from the user
-youtube_url1 = input("Enter the first YouTube URL to find the ID: ")
+youtube_url1 = input("Enter the YouTube URL to find the ID: ")
 
 # Take the second YouTube URL as input from the user (if available)
 youtube_url2 = input("Enter the second YouTube URL to find the ID (Press Enter to skip): ")
